@@ -1,0 +1,1 @@
+print("Hi, it's a wonderful world!")
